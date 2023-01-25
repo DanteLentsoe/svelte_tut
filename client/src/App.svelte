@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Counter from './lib/Counter.svelte'
   import EyeDropper from './lib/Components/EyeDropper/index.svelte'
   import TailwindCss from './TailwindCSS.svelte'
   import Navigation from './lib/Navigation.svelte'
